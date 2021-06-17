@@ -1,0 +1,38 @@
+//////////////////////////////////////////// Create Project
+D:
+cd DEMO
+dotnet new sln
+dotnet new webapi -o API
+dotnet sln add API
+dotnet sln list
+code .
+
+////////////////////////////////////////////// Migrations
+dotnet ef migrations add InitialCreate -o Data/Migrations
+
+dotnet ef database drop -p Infrastructure -s API 
+dotnet ef migrations remove -p Infrastructure -s API
+Dotnet ef migrations add IntialCreate -p Infrastructure -s API -o Data/Migrations
+
+//////////////////////////////////////////// Certificates
+dotnet dev-certs https -t
+
+/////////////////////////////////////////// How to get data
+
+https://localhost:5001/API/Products/1
+
+/////////////////////////////////////////// Packages
+
+microsoft.entityframeworkcore
+c#
+c# extensions
+Brackets
+Microsoft.EntityFrameworkCore.Design
+
+//////////////////////////////////////////////Git
+Git init
+git commit -m "Name"
+git remote add origin https://github.com/NaughtyShah147/Demo.git
+git push -u origin master
+Git add . 
+git commit -m "End Of Section 3"
