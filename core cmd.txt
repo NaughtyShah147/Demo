@@ -36,5 +36,5 @@ git remote add origin https://github.com/NaughtyShah147/Demo.git  (New)
 git clone https://github.com/NaughtyShah147/Demo (Clone)
 
 Git add . 
-git commit -m "End Of Section 3"
+git commit -m "Name"
 git push -u origin master
