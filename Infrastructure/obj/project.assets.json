@@ -953,19 +953,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adeel\\.nuget\\packages\\": {}
+    "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "F:\\Demo\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Demo\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Adeel\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\Infrastructure\\obj\\",
+      "projectPath": "F:\\Demo\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\",
+      "outputPath": "F:\\Demo\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zeeshan Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -979,8 +979,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Demo\\Core\\Core.csproj": {
-              "projectPath": "D:\\Demo\\Core\\Core.csproj"
+            "F:\\Demo\\Core\\Core.csproj": {
+              "projectPath": "F:\\Demo\\Core\\Core.csproj"
             }
           }
         }

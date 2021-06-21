@@ -1289,19 +1289,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adeel\\.nuget\\packages\\": {}
+    "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\API\\API.csproj",
+      "projectUniqueName": "F:\\Demo\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Demo\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Adeel\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\API\\obj\\",
+      "projectPath": "F:\\Demo\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\",
+      "outputPath": "F:\\Demo\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Adeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zeeshan Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1315,8 +1315,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Demo\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Demo\\Infrastructure\\Infrastructure.csproj"
+            "F:\\Demo\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "F:\\Demo\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
