@@ -122,3 +122,5 @@ F:\Demo\API\obj\Debug\net5.0\API.pdb
 F:\Demo\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 F:\Demo\API\bin\Debug\net5.0\AutoMapper.dll
 F:\Demo\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Demo\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Demo\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
