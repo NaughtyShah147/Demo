@@ -28,6 +28,7 @@ c#
 c# extensions
 Brackets
 Microsoft.EntityFrameworkCore.Design
+http://bit.ly/2Hn8HjG (node version manager)
 
 //////////////////////////////////////////////Git
 Git init
@@ -38,3 +39,17 @@ git clone https://github.com/NaughtyShah147/Demo (Clone)
 Git add . 
 git commit -m "Name"
 git push -u origin master
+
+///////////////////////////////////////////////////// NVM
+nvm install "14.17.1"
+nvm use 14.17.1
+
+//////////////////////////////////////////////////// angular ng serve permession
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+Get-ExecutionPolicy -list
+
+//////////////////////////////////////////////////// Bootstrap
+ng add ngx-bootstrap@6.2.0
+npm install ngx-bootstrap@6.2.0
+npm install bootstrap@4.6.0
+npm install font-awesome

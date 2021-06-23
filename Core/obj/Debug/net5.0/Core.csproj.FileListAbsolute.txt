@@ -10,3 +10,15 @@ D:\Demo\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
 D:\Demo\Core\obj\Debug\net5.0\Core.dll
 D:\Demo\Core\obj\Debug\net5.0\ref\Core.dll
 D:\Demo\Core\obj\Debug\net5.0\Core.pdb
+F:\Demo\Core\bin\Debug\net5.0\Core.deps.json
+F:\Demo\Core\bin\Debug\net5.0\Core.dll
+F:\Demo\Core\bin\Debug\net5.0\ref\Core.dll
+F:\Demo\Core\bin\Debug\net5.0\Core.pdb
+F:\Demo\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+F:\Demo\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Demo\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+F:\Demo\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+F:\Demo\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+F:\Demo\Core\obj\Debug\net5.0\Core.dll
+F:\Demo\Core\obj\Debug\net5.0\ref\Core.dll
+F:\Demo\Core\obj\Debug\net5.0\Core.pdb
