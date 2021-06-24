@@ -41,14 +41,20 @@ git commit -m "Name"
 git push -u origin master
 
 ///////////////////////////////////////////////////// NVM
+nodejs setyp with chocolaty
+choco install cmder
+choco install nvm
+refreshenv
 nvm install "14.17.1"
 nvm use 14.17.1
 
-//////////////////////////////////////////////////// angular ng serve permession
+//////////////////////////////////////////////////// angular setup and ng serve permession
+npm install -g @angular/cli@11.2.1
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Get-ExecutionPolicy -list
 
 //////////////////////////////////////////////////// Bootstrap
+http://bit.ly/2Hn8HjG (node version manager)
 ng add ngx-bootstrap@6.2.0
 npm install ngx-bootstrap@6.2.0
 npm install bootstrap@4.6.0
