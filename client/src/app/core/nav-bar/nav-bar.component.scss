@@ -19,3 +19,11 @@ a {
         color: orange;
     }
 }
+
+.logo {
+    cursor: pointer;
+
+    &:focus{
+        outline: none;
+    }
+}
