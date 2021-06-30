@@ -1,0 +1,35 @@
+Types of Filters in MVC
+Partial Views and their use
+Ways of data transportation from controller to views
+Routing Types
+Basic structure of MVC application
+Strongly Types views
+Http Verbs and their use in web APIStatus codes in RESTful standards
+OOP
+Design Patterns
+Scrum, Agile Modeling
+Database Concepts
+SQL Concepts, Query Optimization
+SQL Server
+Stored Procedures / Functions / Triggers
+CLR, MSIL, GC, JIT
+Assemblies and their types
+Value Types, Reference Types
+Page Life Cycle
+View State, Session, Application
+Authentication, Membership / Role provider
+HTTP Handlers, HTTP Modules
+Ajax, JQuery
+MVC, Action Filter, Partial Views
+Web Services, WCF, WPF, Web API
+ADO.NET, LINQ, Entity Framework
+Delegates
+Generics, Collections, Anonymous types, Nullable Types
+Windows Forms Controls, Multi threading
+Extending Framwork API
+Others: AngularJS, REACT.JS, design /architectural patterns e.g Autofac, dependency injection (Ninject)  - if applicable
+
+Repository Patterns 
+
+ASP.NET Core / Xamarin   (ideally)
+ASP.NET Boiler Plate (Ideally)
