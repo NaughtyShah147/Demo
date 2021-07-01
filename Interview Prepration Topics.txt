@@ -1,3 +1,9 @@
+////////////////////////////////////////////////////////// Interview Links
+
+https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/
+https://www.c-sharpcorner.com/UploadFile/puranindia/ASP-NET-MVC-Interview-Questions/
+https://www.c-sharpcorner.com/UploadFile/65794e/sql-interview-questions/
+////////////////////////////////////////////////////////// Interview Topics
 Types of Filters in MVC
 Partial Views and their use
 Ways of data transportation from controller to views
