@@ -7,9 +7,17 @@ dotnet sln add API
 dotnet sln list
 code .
 
-////////////////////////////////////////////// Migrations
-dotnet ef migrations add InitialCreate -o Data/Migrations
+////////////////////////////////////////////////// API Flow
 
+Create Model
+Create DbContext
+Create Generic Repository
+Create Dto
+Create Controller
+
+////////////////////////////////////////////// Migrations
+
+dotnet ef migrations add InitialCreate -o Data/Migrations
 dotnet ef database drop -p Infrastructure -s API 
 dotnet ef migrations remove -p Infrastructure -s API
 Dotnet ef migrations add IntialCreate -p Infrastructure -s API -o Data/Migrations
@@ -53,9 +61,12 @@ npm install -g @angular/cli@11.2.1
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Get-ExecutionPolicy -list
 
+
 //////////////////////////////////////////////////// Bootstrap
 http://bit.ly/2Hn8HjG (node version manager)
 ng add ngx-bootstrap@6.2.0
 npm install ngx-bootstrap@6.2.0
 npm install bootstrap@4.6.0
 npm install font-awesome
+npm install ngx-toastr@11.3.2
+
