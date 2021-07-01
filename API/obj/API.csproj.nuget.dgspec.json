@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo\\API\\API.csproj": {}
+    "F:\\Demo\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\API\\API.csproj": {
+    "F:\\Demo\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\API\\API.csproj",
+        "projectUniqueName": "F:\\Demo\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Demo\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Adeel\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\API\\obj\\",
+        "projectPath": "F:\\Demo\\api\\API.csproj",
+        "packagesPath": "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\",
+        "outputPath": "F:\\Demo\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Adeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zeeshan Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Demo\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Demo\\Infrastructure\\Infrastructure.csproj"
+              "F:\\Demo\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "F:\\Demo\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Demo\\Core\\Core.csproj": {
+    "F:\\Demo\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\Core\\Core.csproj",
+        "projectUniqueName": "F:\\Demo\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Demo\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Adeel\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\Core\\obj\\",
+        "projectPath": "F:\\Demo\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\",
+        "outputPath": "F:\\Demo\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Adeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zeeshan Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -131,21 +131,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Demo\\Infrastructure\\Infrastructure.csproj": {
+    "F:\\Demo\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "F:\\Demo\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Demo\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Adeel\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\Infrastructure\\obj\\",
+        "projectPath": "F:\\Demo\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Zeeshan Shah\\.nuget\\packages\\",
+        "outputPath": "F:\\Demo\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Adeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Zeeshan Shah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,8 +159,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Demo\\Core\\Core.csproj": {
-                "projectPath": "D:\\Demo\\Core\\Core.csproj"
+              "F:\\Demo\\Core\\Core.csproj": {
+                "projectPath": "F:\\Demo\\Core\\Core.csproj"
               }
             }
           }
@@ -195,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

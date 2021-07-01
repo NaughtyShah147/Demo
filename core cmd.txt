@@ -69,4 +69,4 @@ npm install ngx-bootstrap@6.2.0
 npm install bootstrap@4.6.0
 npm install font-awesome
 npm install ngx-toastr@11.3.2
-
+npm install --save xng-breadcrumb@5.0.1
