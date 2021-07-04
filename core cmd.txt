@@ -37,6 +37,9 @@ c# extensions
 Brackets
 Microsoft.EntityFrameworkCore.Design
 http://bit.ly/2Hn8HjG (node version manager)
+https://www.docker.com/products/docker-desktop
+https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+docker-compose up --detach
 
 //////////////////////////////////////////////Git
 Git init
@@ -62,7 +65,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 Get-ExecutionPolicy -list
 
 
-//////////////////////////////////////////////////// Bootstrap
+//////////////////////////////////////////////////// Bootstrap & other packages
 http://bit.ly/2Hn8HjG (node version manager)
 ng add ngx-bootstrap@6.2.0
 npm install ngx-bootstrap@6.2.0
