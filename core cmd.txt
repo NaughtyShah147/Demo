@@ -40,6 +40,7 @@ http://bit.ly/2Hn8HjG (node version manager)
 https://www.docker.com/products/docker-desktop
 https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
 docker-compose up --detach
+npm install uuid@3.4.0
 
 //////////////////////////////////////////////Git
 Git init
