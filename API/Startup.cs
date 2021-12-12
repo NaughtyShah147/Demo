@@ -37,7 +37,7 @@ namespace API
             });
 
             services.AddApplicationServices();     
-            services.AddSwagerDcumentation();   
+            services.AddSwagerDocumentation();   
             services.AddCors(opt =>
             {
                 opt.AddPolicy("CorsPolicy", policy =>
@@ -61,7 +61,7 @@ namespace API
             app.UseStaticFiles();
             app.UseCors("CorsPolicy");
             app.UseAuthorization();
-            app.UseSwagerDcumentation();
+            app.UseSwagerDocumentation();
 
             app.UseEndpoints(endpoints =>
             {

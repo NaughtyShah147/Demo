@@ -6,7 +6,7 @@ namespace API.Extensions
 {
     public static class SwaggerServiceExtension
     {
-        public static IServiceCollection AddSwagerDcumentation(this IServiceCollection services)
+        public static IServiceCollection AddSwagerDocumentation(this IServiceCollection services)
         {
             services.AddSwaggerGen(c =>
             {
@@ -16,7 +16,7 @@ namespace API.Extensions
             return services;
         }
 
-         public static IApplicationBuilder UseSwagerDcumentation(this IApplicationBuilder app)
+         public static IApplicationBuilder UseSwagerDocumentation(this IApplicationBuilder app)
             {
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c
